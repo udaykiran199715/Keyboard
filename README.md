@@ -7,6 +7,6 @@
 2. The application also allows user to clean unparliamentary words.
 
 
-<img src="keyboard.png" />
+<img src="Keyboard.png" />
 
 
