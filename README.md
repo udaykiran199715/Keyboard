@@ -12,8 +12,8 @@
 
 ### Steps:
 
-1. when the user click on <strong>CAPS</strong>, after click on any letter in the virtual keyboard he/she gets the upper case letter.
-2. when the user click on <strong>SHIFT</strong>, he/she gets the characters instead of numbers.
+1. when the user click on <strong>CAPS</strong>, after click on any letter in the virtual keyboard gets the upper case letter.
+2. when the user click on <strong>SHIFT</strong>,  gets the characters instead of numbers.
 3. when the user click on <strong>PASSWD</strong>, all the letters of the input converted to *****'s except last letter.
 4. when the user click on <strong>CLEAN</strong>, all unparliamentary are removed from the input.
 5. when the user click on <strong>REV</strong>, the input string is reversed.
